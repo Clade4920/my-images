@@ -3,10 +3,10 @@
 存放一些不常用的图片文件，防止图片的累积占用云空间
 
 1.动漫截图
-2.优秀的图片
+2.优秀图片
 3.各种GIF
-4.没想到
+4.其他
 
-格式：https://cdn.jsdelivr.net/gh/Clade4920/my-images@main/---/---.jpg
+格式：
 
-https://cdn.jsdelivr.net/gh/Clade4920/my-images@main/
+https://cdn.jsdelivr.net/gh/Clade4920/my-images@main/picture/
