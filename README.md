@@ -6,3 +6,7 @@
 2.优秀的图片
 3.各种GIF
 4.没想到
+
+格式：https://cdn.jsdelivr.net/gh/Clade4920/my-images@main/---/---.jpg
+
+https://cdn.jsdelivr.net/gh/Clade4920/my-images@main/
