@@ -9,4 +9,4 @@
 
 格式：
 
-https://cdn.jsdelivr.net/gh/Clade4920/my-images@main/picture/
+https://cdn.jsdelivr.net/gh/Clade4920/my-images@main/
